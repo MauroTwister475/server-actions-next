@@ -1,1 +1,1 @@
-## Server Action in NextJs 14
+# Server Actions in NextJs 14
